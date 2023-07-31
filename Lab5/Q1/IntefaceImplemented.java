@@ -1,4 +1,4 @@
-package Lab6.Q1;
+package Lab5.Q1;
 
 public class IntefaceImplemented implements MyFirstInterface {
   @Override

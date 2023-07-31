@@ -1,4 +1,4 @@
-package Lab5;
+package Lab4;
 
 public class lecturer extends person {
     private String programme;

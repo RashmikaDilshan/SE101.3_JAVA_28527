@@ -8,7 +8,7 @@ public class Main {
         lecturer lecturer = new lecturer();
         lecturer.speak();
     
-        politician politicial = new politician();
+        politician politician = new politician();
         politician.speak();
       }
     

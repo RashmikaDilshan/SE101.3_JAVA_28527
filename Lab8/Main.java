@@ -6,7 +6,7 @@ public class Main {
        obj.setbalance(20000000);
        obj.calculateInterest();
        
-       CheakingAccount obk=new CheakingAccount();
+       CheckingAccount obk=new CheckingAccount();
        obk.setbalance(1000000);
        obk.calculateInterest();
         
